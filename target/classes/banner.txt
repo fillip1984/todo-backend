@@ -1,0 +1,10 @@
+${AnsiColor.BRIGHT_BLUE}
+  _  __  ___   ___     ___          __   _                               
+ | |/ / | __| | _ )   / __|  ___   / _| | |_  __ __ __  __ _   _ _   ___ 
+ | ' <  | _|  | _ \   \__ \ / _ \ |  _| |  _| \ V  V / / _` | | '_| / -_)
+ |_|\_\ |_|   |___/   |___/ \___/ |_|    \__|  \_/\_/  \__,_| |_|   \___|
+                                                                         
+Application: ${spring.application.name}${application.formatted-version}
+Powered by Spring Boot ${spring-boot.version}
+${AnsiColor.BRIGHT_BLUE}
+${AnsiColor.DEFAULT}
